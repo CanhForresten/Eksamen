@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Documents/GitHub/Eksamen/ReEksamen_sommeren_2024/Opgave3",
-      "program": "c:/Users/Admin/Documents/GitHub/Eksamen/ReEksamen_sommeren_2024/Opgave3/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Documents/GitHub/Eksamen/Eksamen_Efterår_2023/Opgave3",
+      "program": "c:/Users/Admin/Documents/GitHub/Eksamen/Eksamen_Efterår_2023/Opgave3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
