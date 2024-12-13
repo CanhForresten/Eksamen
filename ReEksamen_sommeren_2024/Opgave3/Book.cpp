@@ -1,5 +1,6 @@
 #include "Book.h"
 using namespace std;
+#include<string>
 #include<iostream>
 // Opgave 3 b)
 
@@ -9,6 +10,7 @@ Book::Book(int isbn, string author, bool used)
     {
         cout << "fejl, mangler ISBN nummer";
         this->isbn = 0;
+
     } else {
         this->isbn = isbn; 
     }
@@ -41,5 +43,5 @@ bool Book::isUsed()
 
 string Book::toString()
 {
-    return 0;
+    return ("isbn = " + to_string(this->getIsbn()) + " author = " + this->getAuthor() + " used = " + to_string(this->isUsed()));
 }
