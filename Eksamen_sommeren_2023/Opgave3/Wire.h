@@ -1,4 +1,5 @@
 #pragma once
+#include<vector>
 
 using namespace std;
 
@@ -11,6 +12,7 @@ private:
 public:
     Wire(double areal, double length, double SPresistance);
     double getModstand();
+    double gennemsnitligModstand(vector<Wire>v);
 };
 
 
