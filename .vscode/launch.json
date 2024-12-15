@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Canhn/Documents/Eksamen/Eksamen_sommeren_2023/Opgave3",
-      "program": "c:/Users/Canhn/Documents/Eksamen/Eksamen_sommeren_2023/Opgave3/build/Debug/outDebug",
+      "cwd": "c:/Users/Canhn/Documents/Eksamen/ReEksamen_sommeren_2023/Opgave3",
+      "program": "c:/Users/Canhn/Documents/Eksamen/ReEksamen_sommeren_2023/Opgave3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
